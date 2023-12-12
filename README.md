@@ -1,0 +1,1 @@
+Accordion-style image display using Flexbox.
